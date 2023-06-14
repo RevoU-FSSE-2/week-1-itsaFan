@@ -7,7 +7,7 @@ and the purpose is to demonstrate or implement what I have learned in class into
 ## This is the website link
 Click here: https://steffan-revou-week1.netlify.app/
 
-&nbsp;
+### Website Screenshot
 <p align="center">
   <img src="./assets/imgs/readme-img.png" width="850" title="web-img">
 </p>
